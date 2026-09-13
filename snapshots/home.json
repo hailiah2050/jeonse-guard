@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "deal_keys": [
     "01150b8f931a065a",
     "0471f5b38316693e",
@@ -55,7 +55,7 @@
     "fbb3684c93719a81",
     "fd4cb7cf55ddd654"
   ],
-  "trades_partial": false,
+  "trades_partial": true,
   "trade_median_10k": 130000,
   "jeonse_ratio": 0.2692,
   "building_fingerprint": "제1종근린생활시설|19800912"
